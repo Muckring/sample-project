@@ -13,3 +13,7 @@ a {
     color: red;
     text-decoration: none;
 }
+
+header {
+    display: flex;
+}
