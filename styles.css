@@ -22,3 +22,10 @@ li {
     list-style-type: none;
     margin: 10px;
 }
+
+table, tr, th, td, caption {
+    border: 1px, solid white;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
